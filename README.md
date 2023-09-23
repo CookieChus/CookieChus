@@ -1,16 +1,13 @@
-### Hi there 👋
+Привет!
+Меня зовут Елизавета, мне 20 лет.
+Активно развиваюсь в области веб-дизайна и арт-дизайна. В свои 20 лет имею опыт в 2 года. 
 
-<!--
-**CookieChus/CookieChus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=ЦВЕТ ЛОГОТИПА"/>
+  <img src="https://img.shields.io/badge/adobe photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=ЦВЕТ ЛОГОТИПА"/>
+  <img src="https://img.shields.io/badge/adobe indesign-black?style=for-the-badge&logo=adobeindesign&logoColor=ЦВЕТ ЛОГОТИПА"/>
+  <img src="https://img.shields.io/badge/adobe fonts-black?style=for-the-badge&logo=adobefonts&logoColor=ЦВЕТ ЛОГОТИПА"/>
+  <img src="https://img.shields.io/badge/adobe illustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=ЦВЕТ ЛОГОТИПА"/>
+  <img src="https://img.shields.io/badge/archicad-black?style=for-the-badge&logo=archicad&logoColor=ЦВЕТ ЛОГОТИПА"/>
+  
+</div>
